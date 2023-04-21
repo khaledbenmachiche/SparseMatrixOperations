@@ -2,7 +2,7 @@
 
 Type: Project (TP)
 
-Theme: manipulating sparse matrix using Linked_Lists
+Theme: manipulating sparse matrix using Linked Lists
 
 Language used: C language
 
