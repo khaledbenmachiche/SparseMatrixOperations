@@ -8,7 +8,8 @@ Language used: C language
 
 Competences achieved:
   - Linked Lists Manipulation 
-  - Matrix Manipulations
+  - Arrays Manipulation
+  - Matrix Manipulations(Basic Linear Algebra)
   - Dynamic memory Allocations
   
 Contributors:
