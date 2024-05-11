@@ -2,7 +2,7 @@
 
 Type: Project (TP)
 
-Theme: manipulating sparse matrix using Linked Lists
+Theme: Manipulating sparse matrix using Linked Lists
 
 Language used: C language
 
@@ -11,7 +11,3 @@ Competences achieved:
   - Arrays Manipulation
   - Matrix Manipulations(Basic Linear Algebra)
   - Dynamic memory Allocations
-  
-Contributors:
-  - Khaled BENMACHICHE
-  - Cerine BAZOULA
